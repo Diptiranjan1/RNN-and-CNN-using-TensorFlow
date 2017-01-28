@@ -1,2 +1,2 @@
-# RRN and CNN using tensorflow
+# RNN and CNN using tensorflow
 MNIST dataset
